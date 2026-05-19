@@ -295,8 +295,3 @@ def inject_custom_css():
 
 if __name__ == "__main__":
     main()
-'''
-$env:ALGOMENTOR_MOCK_LLM = "0"
-$env:ALGOMENTOR_LLM_PROVIDER = "deepseek"
-$env:DEEPSEEK_API_KEY = "sk-7b1dd104153a48eb88d3969491105db8"
-'''
